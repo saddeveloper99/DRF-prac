@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django,visualstudiocode,pycharm,windows,macos
 secrets.json
 **/migrations/**_initial.py
+**/migrations/**_alter**.py
 !**/migrations/_init_.py
 ### Django ###
 *.log
