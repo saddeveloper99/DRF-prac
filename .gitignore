@@ -4,6 +4,7 @@ secrets.json
 **/migrations/**_initial.py
 **/migrations/**_alter**.py
 !**/migrations/_init_.py
+drf_week2_front
 ### Django ###
 *.log
 *.pot
